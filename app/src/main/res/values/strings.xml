@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="stormy_night">Stormy Night</string>
+    <string name="snowy_landscape">Snowy Landscape</string>
+    <string name="cloudy_river_scene">Cloudy River Scene</string>
+    <string name="mountainous_forest">Mountainous Forest</string>
+    <string name="from_dusk_til_dawn">From Dusk \'til Dawn</string>
+    <string name="peaceful_lake">Peaceful Lake</string>
+    <string name="_1994">1994</string>
+    <string name="_1978">1978</string>
+    <string name="_1982">1982</string>
+    <string name="_1980">1980</string>
+    <string name="_1977">1977</string>
+    <string name="_1969">1969</string>
+</resources>
